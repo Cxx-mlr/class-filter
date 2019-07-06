@@ -11,7 +11,7 @@
 struct base {
 	int value;
 
-      // Value is transformed in some way and returned.
+        // Value is transformed in some way and returned.
 	auto get() const {
 		return value * 2;
 	}
