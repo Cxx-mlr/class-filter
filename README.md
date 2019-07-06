@@ -65,6 +65,6 @@ int main(int argc, const char* argv[]) {
     return 0;
 }
 ```
-first version by hazurl - https://godbolt.org/z/l9qP83
-second version by Cxx - https://godbolt.org/z/w5rZ0e
+first version by hazurl - https://godbolt.org/z/l9qP83 \
+second version by Cxx - https://godbolt.org/z/w5rZ0e \
 third version by Cxx - https://godbolt.org/z/VKVvHl
