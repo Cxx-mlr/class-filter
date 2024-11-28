@@ -68,3 +68,7 @@ int main(int argc, const char* argv[]) {
 1: hazurl - https://godbolt.org/z/l9qP83 \
 2: Cxx - https://godbolt.org/z/w5rZ0e \
 3: Cxx - https://godbolt.org/z/VKVvHl
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
